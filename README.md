@@ -1,4 +1,9 @@
-## Hi there 👋
+## Liam Swetnam
+Looking to turn my years of hobby work into a profession.
+
+![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvsweat&show_icons=true&theme=onedark)
+
+![Liam's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lvsweat&layout=donut&theme=onedark)
 
 <!--
 **lvsweat/lvsweat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
